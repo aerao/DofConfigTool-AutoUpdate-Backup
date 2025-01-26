@@ -13,8 +13,8 @@ Le script DOFConfigTool Auto-Update & Backup permet de gérer automatiquement la
 1. Téléchargez le fichier DofConfigTool-AutoUpdate.cmd et mettez le à la racine du dossier DirectOutput
 2. Lancer le et laissez vous guider en lisant les instructions
 3. Il faudra ouvrir le fichier dans un éditeur de texte et remplir les champs suivants :
- -  LCP_APIKEY : Votre clé API DOFConfigTool.  (exemple, F29oyY4loj3L53IUtF38xq613FA ).
- -  LCP_DIRECTOUTPUTCONFIGPATH : Le chemin de votre dossier de configuration DOF (exemple, C:\DirectOutput\Config\).
+ -  LCP_APIKEY : Votre clé API DOFConfigTool.  (exemple : F29oyY4loj3L53IUtF38xq613FA ).
+ -  LCP_DIRECTOUTPUTCONFIGPATH : Le chemin de votre dossier de configuration DOF (exemple : C:\DirectOutput\Config\).
 3. Enregistrez le fichier après avoir ajouté les informations nécessaires.
 4. Relancez le
 
