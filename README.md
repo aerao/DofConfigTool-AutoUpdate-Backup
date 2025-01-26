@@ -27,4 +27,4 @@ Le script DOFConfigTool Auto-Update & Backup permet de gérer automatiquement la
 **Notes**
 - Le script nécessite une connexion Internet pour télécharger les fichiers nécessaires.
 - Veuillez vous assurer que le chemin de votre dossier de configuration DOF est correct pour éviter toute erreur.
-- Si le script échoue à télécharger ou mettre à jour un fichier, la mise à jour ne s'effectuera pas.
+- Si le script échoue à télécharger ou mettre à jour vos fichiers de config, la mise à jour ne s'effectuera pas.
