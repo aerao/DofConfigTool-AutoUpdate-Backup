@@ -2,7 +2,9 @@
 
 **Description**
 
-Le script DOFConfigTool Auto-Update & Backup permet de gérer automatiquement la mise à jour du fichier de configuration **DOFConfigTool** utilisé pour le contrôle des LEDS et des TOYS dans les flippers virtuels. Il télécharge et remplace vos fichiers de configuration à partir de votre compte du site DofConfigTool, tout en effectuant une sauvegarde avant toute modification.
+Le script* DOFConfigTool Auto-Update & Backup permet de gérer automatiquement la mise à jour du fichier de configuration **DOFConfigTool** utilisé pour le contrôle des LEDS et des TOYS dans les flippers virtuels. Il télécharge et remplace vos fichiers de configuration à partir de votre compte du site DofConfigTool, tout en effectuant une sauvegarde avant toute modification.
+
+* Script basé sur le DOF Configs Ini Pull Program (v4.0) du site https://configtool.vpuniverse.com
 
 **Fonctionnalités**
  - **Téléchargement du fichier manquant** : Lors du premier lancement, le script vérifie si le fichier essentiel _ledcontrol_pull.vbs_ est présent dans le répertoire. Si ce fichier est manquant, il sera téléchargé automatiquement depuis le serveur.
