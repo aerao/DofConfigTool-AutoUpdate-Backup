@@ -42,15 +42,15 @@ In the `DofConfigTool-AutoUpdate.cmd` file, you will find placeholders for the r
 
 ---
 
-## EXEMPLE
+## Exemple
 
 **Before:**
 ```ini
 SET LCP_APIKEY=###
 SET LCP_DIRECTOUTPUTCONFIGPATH=###
 
+
 **After:**
-```ini
 SET LCP_APIKEY=8JIx1LBoDR5Z64mv3zKqI8YJW3BOoLuD
 SET LCP_DIRECTOUTPUTCONFIGPATH=C:\DirectOutput\Config\
 
