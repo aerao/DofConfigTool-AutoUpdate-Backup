@@ -60,4 +60,4 @@ Il télécharge et remplace vos fichiers de configuration à partir de votre com
 
 - Le script nécessite **une connexion Internet** pour télécharger les fichiers nécessaires.  
 - Assurez-vous que **le chemin de votre dossier de configuration DOF est correct** pour éviter toute erreur.  
-- Si le script échoue à télécharger ou mettre à jour vos fichiers de configuration, **la mise à jour ne s’effectuera pas**.  
+- Si le script échoue à télécharger ou mettre à jour vos fichiers de configuration, **la mise à jour ne s’effectuera pas**.
