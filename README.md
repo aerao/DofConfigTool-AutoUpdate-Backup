@@ -1,4 +1,4 @@
-Version française disponible ici : [README.md](README.md)
+Version française disponible ici : [README_FR.md](README_FR.md)
 
 # DOFConfigTool Auto-Update & Backup
 
