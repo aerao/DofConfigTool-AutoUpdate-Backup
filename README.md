@@ -36,11 +36,25 @@ It downloads and replaces your configuration files from your **DofConfigTool** a
 
 1. **Download** the `DofConfigTool-AutoUpdate.cmd` file and place it **in the root of the `DirectOutput` folder**.  
 2. **Run it** and **follow the on-screen instructions**.  
-3. **Edit the file** in a text editor and fill in the following fields:  
+3. **Edit the file** in a text editor and fill in the following fields:
 
-   ```ini
-   LCP_APIKEY=Your DOFConfigTool API key (example: F29oyY4loj3L53IUtF38xq613FA)
-   LCP_DIRECTOUTPUTCONFIGPATH=Your DOF configuration folder path (example: C:\DirectOutput\Config\)
+In the `DofConfigTool-AutoUpdate.cmd` file, you will find placeholders for the required fields. These need to be replaced with your actual data.
+
+---
+
+## EXEMPLE
+
+**Before:**
+```ini
+SET LCP_APIKEY=###
+SET LCP_DIRECTOUTPUTCONFIGPATH=###
+
+**After:**
+```ini
+SET LCP_APIKEY=8JIx1LBoDR5Z64mv3zKqI8YJW3BOoLuD
+SET LCP_DIRECTOUTPUTCONFIGPATH=C:\DirectOutput\Config\
+
+
 4. **Save** the file after adding the necessary information.  
 5. **Restart** `DofConfigTool-AutoUpdate.cmd`.  
 
