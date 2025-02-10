@@ -1,4 +1,4 @@
-📖 English version available: [README_EN.md](README_EN.md)
+📖 English version available: [README.md](README.md)
 
 # DOFConfigTool Auto-Update & Backup
 
