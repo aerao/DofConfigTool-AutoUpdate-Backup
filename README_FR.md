@@ -25,7 +25,7 @@ Il télécharge et remplace vos fichiers de configuration depuis votre compte **
   Une fois la sauvegarde terminée, le script met automatiquement à jour le fichier **DOFConfigTool**, en remplaçant l'ancienne version par la dernière version disponible.
 
 - **Gestion du dossier de sauvegarde**  
-  Vous pouvez **configurer et gérer votre nombre de sauvegardes** *(defaut=3 ; ce nombre est ajustable selon vos besoins)*, les fichiers sont compressés et placés dans le dossier `Backup`.
+  Vous pouvez **configurer et gérer votre nombre de sauvegardes** *(défaut=3 ; ce nombre est ajustable selon vos besoins)*, les fichiers sont compressés et placés dans le dossier `Backup`.
 
 - **Suppression automatique des anciennes sauvegardes**  
   ➜ Lorsque le nombre de sauvegardes dépasse la limite configurée, **les sauvegardes les plus anciennes sont automatiquement supprimées**.
