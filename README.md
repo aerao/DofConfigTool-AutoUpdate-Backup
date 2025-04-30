@@ -43,15 +43,18 @@ The **DOFConfigTool Auto-Update & Backup** script allows you to automatically an
 
 ## Example
 
-**Before:**
+SET LCP_APIKEY = Your API_KEY that you can find in your Cabinets section.
+SET LCP_DIRECTOUTPUTCONFIGPATH = the windows path in your cab where you store your ini files.
 
+![image](https://github.com/user-attachments/assets/77d9731c-22cb-420c-9ab8-7ffeaac84e89)
+
+**Before:**
 ~~~ini
 SET LCP_APIKEY=###
 SET LCP_DIRECTOUTPUTCONFIGPATH=###
 ~~~
 
 **After:**
-
 ~~~ini
 SET LCP_APIKEY=8JIx1LBoDR5Z64mv3zKqI8YJW3BOoLuD
 SET LCP_DIRECTOUTPUTCONFIGPATH=C:\DirectOutput\Config\
