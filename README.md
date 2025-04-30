@@ -24,7 +24,7 @@ The **DOFConfigTool Auto-Update & Backup** script allows you to automatically an
   Once the backup is completed, the script automatically updates the **DOFConfigTool** file, replacing the old version with the latest available version.
 
 - **Backup Folder Management**  
-  You can **configure and manage your number of backups** *(default=3; this number can be adjusted according to your needs)*, the files are compressed and placed in the `Backup` folder.
+  You can **configure and manage your number of backups** *(default=3; this number can be adjusted according to your needs)*, the files are compressed and placed in the `\Backup`\ folder.
 
 - **Automatic Deletion of Old Backups**  
   ➜ When the number of backups exceeds the configured limit, **the oldest backups are automatically deleted**.
