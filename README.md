@@ -47,7 +47,7 @@ The **DOFConfigTool Auto-Update & Backup** script allows you to automatically an
 ## Settings
 
 SET LCP_APIKEY = Your API_KEY that you can find in your Cabinets section.  
-SET LCP_DIRECTOUTPUTCONFIGPATH = the windows path in your cab where you store your ini files
+SET LCP_DIRECTOUTPUTCONFIGPATH = the windows path in your cab where you store your ini files  
 (default = (`C:\DirectOutput\Config\`)  
 
 ➜ go to: https://configtool.vpuniverse.com
