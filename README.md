@@ -37,31 +37,36 @@ The **DOFConfigTool Auto-Update & Backup** script allows you to automatically an
 2. **Run** it and **follow the on-screen instructions**.
 3. **Edit** the file in a text editor and fill in the following fields:
 
-   In the `DofConfigTool-AutoUpdate.cmd` file, you will find placeholders for the required fields. Replace these with your actual data.
+   In the `DofConfigTool-AutoUpdate.cmd` file, you will find placeholders for the required fields. Replace these with your actual data.  
+   ➜ See the section just below entitled: **Settings**
 
----
+5. **Save** the file after adding the necessary information.
+6. **Restart** `DofConfigTool-AutoUpdate.cmd`.
 
-## Example
 
-SET LCP_APIKEY = Your API_KEY that you can find in your Cabinets section.
-SET LCP_DIRECTOUTPUTCONFIGPATH = the windows path in your cab where you store your ini files.
+## Settings
 
-![image](https://github.com/user-attachments/assets/77d9731c-22cb-420c-9ab8-7ffeaac84e89)
+SET LCP_APIKEY = Your API_KEY that you can find in your Cabinets section.  
+SET LCP_DIRECTOUTPUTCONFIGPATH = the windows path in your cab where you store your ini files
+(default = (`C:\DirectOutput\Config\`)  
+
+➜ go to: https://configtool.vpuniverse.com
+
+![image](https://github.com/user-attachments/assets/8f5daf1d-2eae-45cc-b48c-c298a0d3a871)
 
 **Before:**
 ~~~ini
 SET LCP_APIKEY=###
-SET LCP_DIRECTOUTPUTCONFIGPATH=###
+SET LCP_DIRECTOUTPUTCONFIGPATH=C:\DirectOutput\Config\
 ~~~
 
 **After:**
 ~~~ini
-SET LCP_APIKEY=8JIx1LBoDR5Z64mv3zKqI8YJW3BOoLuD
+SET LCP_APIKEY=zpyz545fiv7s2Y0qiBsWIWJUM92rq78Yr
 SET LCP_DIRECTOUTPUTCONFIGPATH=C:\DirectOutput\Config\
 ~~~
 
-4. **Save** the file after adding the necessary information.
-5. **Restart** `DofConfigTool-AutoUpdate.cmd`.
+
 
 ---
 
