@@ -13,7 +13,7 @@ The **DOFConfigTool Auto-Update & Backup** script allows you to automatically an
 ## Features
 
 - **Missing File Download**  
-  When launched for the first time, the script checks if the essential `_ledcontrol_pull.vbs_` file is present in the directory.  
+  When launched for the first time, the script checks if the essential `ledcontrol_pull.vbs` file is present in the directory.  
   ➜ If missing, it will be **automatically downloaded** from the server.
 
 - **Backup and Compression**  
