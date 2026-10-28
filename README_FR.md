@@ -14,7 +14,7 @@ Il télécharge et remplace vos fichiers de configuration depuis votre compte **
 ## Fonctionnalités
 
 - **Téléchargement du fichier manquant**  
-  Lors du premier lancement, le script vérifie si le fichier essentiel `_ledcontrol_pull.vbs_` est présent dans le répertoire.  
+  Lors du premier lancement, le script vérifie si le fichier essentiel `ledcontrol_pull.vbs` est présent dans le répertoire.  
   ➜ S'il manque, il sera **téléchargé automatiquement** depuis le serveur.
 
 - **Sauvegarde et compression**  
