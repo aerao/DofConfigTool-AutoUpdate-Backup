@@ -73,7 +73,7 @@ SET LCP_DIRECTOUTPUTCONFIGPATH=C:\DirectOutput\Config\
 ## Usage
 
 1. **Run** the `DofConfigTool-AutoUpdate.cmd` script.
-2. During the **first launch**, the script checks if the `_ledcontrol_pull.vbs_` file is present in the directory.  
+2. During the **first launch**, the script checks if the `ledcontrol_pull.vbs` file is present in the directory.  
    - If **missing**, it will be **automatically downloaded**.
 3. Once the **fields are correctly filled**, **restart the script** to perform the automatic update.
 4. The script creates **a full backup** of your configuration **before proceeding with the update** of **DOFConfigTool**.
